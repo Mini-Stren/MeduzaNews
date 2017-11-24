@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Новости Meduza.io</string>
+    <string name="empty_list">
+        Новости не найдены\n\n
+        Проверьте интернет соединение\n
+        и попробуйте обновить список
+    </string>
+    <string name="action_reload_news">Обновить</string>
+</resources>
